@@ -4,7 +4,7 @@ In this project I performed an end to end ETL pipeline with barebones python (no
 
 I fetched the invetory and stations data from the ncdc weather stations.
 
-Then I cleaned the data and found the closest station to my location.
+I then cleaned the data and found the closest station to my location.
 
 I then stored the cleaned data in a sqlite3 database in my file system to persist the data.
 
